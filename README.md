@@ -1,7 +1,7 @@
 <img  alt="image" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" width="100%" height="180" />
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm IJlal Naufal Hibrizi </h1>
-<h3>I'm a passionate Front End Web Developer from  Indonesia.</h3>
+<h3>Saya seorang Front End Web Developer dari Indonesia.</h3>
 
 Saya seorang **Front End Developer** di [Mycommerce](http://mycommerce.id/).
 
@@ -14,10 +14,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <br/>
 
-<p align="left">
+<p>
 <a href="https://github.com/IJlnflhbrzDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IJlnflhbrzDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IJlnflhbrzDev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IJlnflhbrzDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IJlnflhbrzDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -36,15 +36,15 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <br />
 
 ## Certifications <br/>
-Dicoding [Web Dasar Front End Developer](https://www.dicoding.com/certificates/2VX3NO10NXYQ).\  <br/>
-Dicoding [Web Fundamental Front End Developer](https://www.dicoding.com/certificates/QNVP7MJ8RXR0).\ <br/>
-Dicoding [Web Expert Front End Developer](https://www.dicoding.com/certificates/4EXG66JYQZRL).\ <br/>
-Codepolitan [Dasar HTML CSS](https://apps.codepolitan.com/achievement/detail/4SM6ZI1).\ <br/>
-Codepolitan [Dasar SASS](https://apps.codepolitan.com/achievement/detail/0HXFQQN).\ <br/>
-Codepolitan [Membuat Landing Page Mengunakan Bootstrap 4](https://apps.codepolitan.com/achievement/detail/ANCK4Q6).\ <br/>
-Codepolitan [Dasar Javascript](https://apps.codepolitan.com/achievement/detail/EISAEUU).\ <br/>
-Codepolitan [Dasar Jquery](https://apps.codepolitan.com/achievement/detail/2NKT5ZQ).\ <br/>
-Codepolitan [Membuat Web App Berbasis React](https://apps.codepolitan.com/achievement/detail/WTSFKXC).\ <br/>
+Dicoding [Web Dasar Front End Developer](https://www.dicoding.com/certificates/2VX3NO10NXYQ) <br/>
+Dicoding [Web Fundamental Front End Developer](https://www.dicoding.com/certificates/QNVP7MJ8RXR0) <br/>
+Dicoding [Web Expert Front End Developer](https://www.dicoding.com/certificates/4EXG66JYQZRL) <br/>
+Codepolitan [Dasar HTML CSS](https://apps.codepolitan.com/achievement/detail/4SM6ZI1) <br/>
+Codepolitan [Dasar SASS](https://apps.codepolitan.com/achievement/detail/0HXFQQN) <br/>
+Codepolitan [Membuat Landing Page Mengunakan Bootstrap 4](https://apps.codepolitan.com/achievement/detail/ANCK4Q6) <br/>
+Codepolitan [Dasar Javascript](https://apps.codepolitan.com/achievement/detail/EISAEUU) <br/>
+Codepolitan [Dasar Jquery](https://apps.codepolitan.com/achievement/detail/2NKT5ZQ) <br/>
+Codepolitan [Membuat Web App Berbasis React](https://apps.codepolitan.com/achievement/detail/WTSFKXC) <br/>
 <br/>
 
 ## Connect with me:
