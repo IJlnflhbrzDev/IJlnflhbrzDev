@@ -36,9 +36,11 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <br />
 
 ## Certifications <br/>
+
 Dicoding [Web Dasar Front End Developer](https://www.dicoding.com/certificates/2VX3NO10NXYQ) <br/>
 Dicoding [Web Fundamental Front End Developer](https://www.dicoding.com/certificates/QNVP7MJ8RXR0) <br/>
 Dicoding [Web Expert Front End Developer](https://www.dicoding.com/certificates/4EXG66JYQZRL) <br/>
+Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/RVZK1O62EPD5) <br/>
 Codepolitan [Dasar HTML CSS](https://apps.codepolitan.com/achievement/detail/4SM6ZI1) <br/>
 Codepolitan [Dasar SASS](https://apps.codepolitan.com/achievement/detail/0HXFQQN) <br/>
 Codepolitan [Membuat Landing Page Mengunakan Bootstrap 4](https://apps.codepolitan.com/achievement/detail/ANCK4Q6) <br/>
