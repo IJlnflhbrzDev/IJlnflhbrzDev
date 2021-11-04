@@ -10,7 +10,7 @@ Pengalaman Selama 1 Tahun Dalam Merancang Web Front-End
 
 Saya juga memiliki gelar academy dicoding [Front End Developer Expert](https://www.dicoding.com/certificates/4EXG66JYQZRL) Sejak 2021.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ijlal-naufal-hibrizi-34337b1b9/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/ijlnflhbrz/) ku ya.
 
 <br/>
 
