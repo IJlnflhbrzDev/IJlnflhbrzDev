@@ -3,13 +3,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm IJlal Naufal Hibrizi </h1>
 <h3>Saya seorang Front End Web Developer dari Indonesia.</h3>
 
-Saya seorang **Front End Developer** di [Mycommerce](http://mycommerce.id/).
-
-Saya bertanggung jawab Merancang Sebuah Template Web dari 0 hingga siap di gunakan dengan client Mengunakan Elementor/ThemeBuilder & Custom Style dengan dibekali Dengan 
-Pengalaman Selama 1 Tahun Dalam Merancang Web Front-End
-
 Saya juga memiliki gelar academy dicoding [Front End Developer Expert](https://www.dicoding.com/certificates/4EXG66JYQZRL) Sejak 2021.
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/ijlnflhbrz/) ku ya.
 
 <br/>
