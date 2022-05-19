@@ -1,7 +1,7 @@
 <img  alt="image" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" width="100%" height="180" />
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm IJlal Naufal Hibrizi </h1>
-<h3>Saya seorang Front End Web Developer dari Indonesia.</h3>
+<h3>Saya seorang Front End Web/Mobile Developer dari Indonesia.</h3>
 
 Saya juga memiliki gelar academy dicoding [Front End Developer Expert](https://www.dicoding.com/certificates/4EXG66JYQZRL) Sejak 2021.
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/ijlnflhbrz/) ku ya.
