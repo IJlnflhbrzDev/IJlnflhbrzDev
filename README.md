@@ -25,6 +25,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](htt
     <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a> 
     <a href="https://www.dicoding.com/academies/317" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/000000/git.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    
 </p>
 
 <br />
